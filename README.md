@@ -9,3 +9,6 @@ I'll use Python and libraries like numpy, pandas, sklearn, tensorflow and keras.
 * Convolutional neural network with Tensorflow and Keras - *NOT STARTED*
 * FFNN or CNN without ML libraries - *NOT STARTED*
 * Other machine learning classification techniques (KNN, Decision tree, Random forest) - *NOT STARTED*
+
+### Results
+Feed forward neural network with Tensorflow and Keras
